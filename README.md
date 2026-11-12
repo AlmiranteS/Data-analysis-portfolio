@@ -1,3 +1,4 @@
+<img width="1989" height="1535" alt="100 sales Dashboard" src="https://github.com/user-attachments/assets/236d7b2a-d282-4688-8c18-370986571b8d" />
 **100 SALES DATA ANALYSIS (PYTHON)**
 
 **CONTEXT AND OBJECTIVE**
