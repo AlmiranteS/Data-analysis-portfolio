@@ -1,3 +1,6 @@
+<img width="826" height="460" alt="Captura de tela 2026-11-19 190901" src="https://github.com/user-attachments/assets/d2a20fb4-7b72-4cfe-b9eb-a2bf07a4711e" />
+<img width="824" height="467" alt="Captura de tela 2026-11-19 190950" src="https://github.com/user-attachments/assets/1b749e72-a26a-4eed-8da0-c32cfeb74ec3" />
+
 **RETAIL SALES ANALYSIS (IN POWER BI)**
 
 *(Dashboard Screenshots at the Bottom)*
