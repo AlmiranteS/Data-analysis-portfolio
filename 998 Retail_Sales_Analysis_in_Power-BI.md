@@ -41,7 +41,5 @@ After that, I performed the analysis (Matrix Tables - Page 1 of the PBI report) 
 4. Q4 holiday lift is real but modest (Dec +12% vs. average month) — inventory planning should ramp ~10–15% for Nov–Dec;
 5. Revenue pattern = "few big tickets + many small fillers" — high-price items ($300–$500) at qty 1–2 anchor revenue; $25–$50 items at qty 3–4 drive volume.
 6. Bundle strategies (attach low-price fillers to high-ticket anchors) could lift AOV.
-7. Two 2024-dated transactions must be handled explicitly in YoY comparisons to avoid distortion; so, that rows were deleted.
-
-<img width="826" height="460" alt="Captura de tela 2026-11-19 190901" src="https://github.com/user-attachments/assets/d2a20fb4-7b72-4cfe-b9eb-a2bf07a4711e" />
+7. Two 2024-dated transactions must be handled explicitly in YoY comparisons to avoid distortion; so, that rows were deleted.a2bf07a4711e" />
 <img width="824" height="467" alt="Captura de tela 2026-11-19 190950" src="https://github.com/user-attachments/assets/1b749e72-a26a-4eed-8da0-c32cfeb74ec3" />
